@@ -1,0 +1,16 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1032 197">
+  <g id="APEX_logo" data-name="APEX_logo">
+    <g id="TEXT">
+      <!-- A --> <polygon class="letterA" points="315.5 1.5 315.5 196.5 266.5 196.5 266.5 171.5 193 171.5 242 122.5 266.5 122.5 267.5 74.63 145.36 196.5 96.5 196.5 96.5 179.36 96.5 172.13 267.5 1.5 315.5 1.5"/>
+      <!-- P --> <path class="letterP" d="M335,59.7V1H506.5l-49,49H384V196H335ZM409,74h48.67l73-73H555V49.5L482,123H409Z"/>
+      <!-- E --> <path class="letterE" d="M574,178.77v-7.44l73.13-73L574,25.33V1h48.75l73.13,73H769v49H697l-24,24h95.67L793,171.5V196H574ZM646,1H793V25.5L768.5,50H695Z"/>
+      <!-- X --> <path class="letterX" d="M813,178.86v-7.23L983.33,1H1032V25.38L861.67,196H813Zm0-153.48V1h48.75L910.5,49.75,873.94,86.31ZM934.5,147.25l36.56-36.56L1032,171.63V196H983.25Z"/>
+    </g>
+    <g id="outer_Bar" data-name="outer Bar">
+      <polygon class="outerBar bar" points="1 178.86 1 171.63 171.33 1 220 1 220 25.38 49.67 196 1 196 1 178.86" style="fill:#f8bb2c;stroke:#f8bb2c;stroke-miterlimit:10;stroke-width:2px"/>
+    </g>
+    <g id="Inner_bar" data-name="Inner bar">
+      <polygon class="innerBar bar" points="97 178.86 97 171.63 267.33 1 316 1 316 25.38 145.67 196 97 196 97 178.86" style="fill:#f8bb2c;stroke:#f8bb2c;stroke-miterlimit:10;stroke-width:2px"/>
+    </g>
+  </g>
+</svg>
